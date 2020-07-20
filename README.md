@@ -20,14 +20,13 @@ I'm 20 years old, currently in my penultimate year at Nanyang Technological Univ
 
 <div><p>The projects I am currently working on: </p></div>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ApurvShah007&repo=Algorithmic_trading)](https://github.com/ApurvShah007/Algorithmic_trading)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Apurvshah007&repo=ApurvShah007.github.io)](https://github.com/ApurvShah007/ApurvShah007.github.io)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ChiragJhawar&repo=ProjectReward)](https://github.com/ChiragJhawar/ProjectReward)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=arjunmann73&repo=Intelligent-Targetting-QLearning)](https://github.com/arjunmann73/Intelligent-Targetting-QLearning)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=arjunmann73&repo=Reverse-Shell)](https://github.com/arjunmann73/Reverse-Shell)
 
 <br />
 
 <div><p>My profile overview: </p></div>
 
-![Apurv's github stats](https://github-readme-stats.vercel.app/api?username=arjunmann73&show_icons=true)
+![Arjun's github stats](https://github-readme-stats.vercel.app/api?username=arjunmann73&show_icons=true)
 
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=arjunmann73.arjunmann73)
