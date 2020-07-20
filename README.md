@@ -18,13 +18,6 @@ I'm 20 years old, currently in my penultimate year at Nanyang Technological Univ
 
 <br />
 
-<div><p>The projects I am currently working on: </p></div>
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=arjunmann73&repo=Intelligent-Targetting-QLearning)](https://github.com/arjunmann73/Intelligent-Targetting-QLearning)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=arjunmann73&repo=Reverse-Shell)](https://github.com/arjunmann73/Reverse-Shell)
-
-<br />
-
 <div><p>My profile overview: </p></div>
 
 ![Arjun's github stats](https://github-readme-stats.vercel.app/api?username=arjunmann73&show_icons=true)
