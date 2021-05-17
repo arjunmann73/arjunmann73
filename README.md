@@ -11,7 +11,7 @@
 <div>
  <p>
 
-I'm 20 years old, currently in my penultimate year at Nanyang Technological University, Singapore! Still looking for my final goal, currently enjoying tech! I've worked with several companies on various projects, from Computer Vision to Automated Chatbots to tackle buiseness problems! 
+I'm 21 years old, currently in my final year at Nanyang Technological University, Singapore! Still looking for my final goal, currently enjoying tech! I've worked with several companies on various projects, from creating/monitoring microservices to benchmarking Computer Vision models on embedded systems!
 
 </h4>
 </div>
