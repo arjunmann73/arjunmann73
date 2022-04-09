@@ -11,7 +11,7 @@
 <div>
  <p>
 
-I'm 22 years old, currently in my final year at Nanyang Technological University, Singapore. Still looking for my final goal, currently enjoying tech! I've worked with several companies on various projects, from creating/monitoring microservices to benchmarking Computer Vision models on embedded systems, I've dabbled with it all! (dont know if I should be excited about this :()
+I'm 22 years old, currently in my final year at Nanyang Technological University, Singapore. Still looking for my final goal, currently enjoying tech! I've worked with several companies on various projects, from creating/monitoring microservices to benchmarking Computer Vision models on embedded systems, I've dabbled with it all!
 
 </h4>
 </div>
